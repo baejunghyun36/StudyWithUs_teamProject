@@ -1,9 +1,12 @@
-# StudyWithUs_teamProject
-StudyWithUs는 온라인 스터디 서비스를 제공하는 웹 사이트입니다.
-
 <p align="center">
 <img src="/src/main/resources/static/images/logo.png" width="50%">
 </p>
+
+
+# StudyWithUs_teamProject
+StudyWithUs는 온라인 스터디 서비스를 제공하는 웹 사이트입니다.
+
+
 
 # :computer: Study With Us_Project
 
