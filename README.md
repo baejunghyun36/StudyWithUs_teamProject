@@ -40,3 +40,5 @@ StudyWithUs는 온라인 스터디 서비스를 제공하는 웹 사이트입니
 ### :camera: 시연 영상
 https://www.youtube.com/watch?v=iyz1Dxerur8
 
+
+![image](https://github.com/baejunghyun36/StudyWithUs_teamProject/assets/78024741/0f2174cd-d6f0-4477-b96f-2554e3fd62b4)
